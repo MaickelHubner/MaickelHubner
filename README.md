@@ -43,30 +43,35 @@ Make dreams come true with Data Science
 
 <br/><br/>
 
-[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="GCP" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />](https://cloud.google.com)
+[<img align="left" alt="AWS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com)
 
-<br/><p align="left">
+<br/><br/>
 
-<a href="https://cloud.google.com" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+[<img align="left" alt="postgresql" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org)
+[<img align="left" alt="mysql" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
+[<img align="left" alt="oracle" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" />](https://www.oracle.com/)
+[<img align="left" alt="sqlite" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />](https://www.sqlite.org/)
+[<img align="left" alt="elasticsearch" width="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />](https://www.elastic.co)
+[<img align="left" alt="mongodb" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
 
-<a href="https://www.elastic.co" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<br/><br/>
 
-<a href="https://www.elastic.co/kibana" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
+[<img align="left" alt="kibana" width="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" />](https://www.elastic.co/kibana)
 
-<a href="https://scikit-learn.org/" target="_blank" style="margin-right: 30px"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>  <a href="https://www.tensorflow.org" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<br/><br/>
 
-<a href="https://angular.io" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://ionicframework.com" target="_blank" style="margin-right: 30px"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" style="margin-right: 30px"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+[<img align="left" alt="tensorflow" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />](https://www.tensorflow.org)
+[<img align="left" alt="scikit-learn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/)
 
-<br/></p>
+<br/><br/>
+
+[<img align="left" alt="angular" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />](https://angular.io)
+[<img align="left" alt="ionic" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" />](https://ionicframework.com)
+[<img align="left" alt="ngrx" width="40" src="https://ngrx.io/assets/images/badge.svg" />](https://ngrx.io/)
+[<img align="left" alt="typescript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" />](https://www.typescriptlang.org/)
+
+<br/><br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maickelhubner&show_icons=true&locale=en&layout=compact" alt="maickelhubner" /><br/><br/><br/><br/><br/><br/><br/><br/></p>
 
