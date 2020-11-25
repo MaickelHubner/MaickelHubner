@@ -30,9 +30,38 @@ Make dreams come true with Data Science
 
 ### Technology Stack:
 
+[<img align="left" alt="python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />](https://www.python.org)
+[<img align="left" alt="django" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />](https://www.djangoproject.com/)
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+[<img align="left" alt="" width="40" src="" />]()
+
 <br/><p align="left">
 
-<a href="https://www.python.org" target="_blank" style="margin-right: 30px" style="margin-right: 30px"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" style="margin-right: 30px"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" style="margin-right: 30px"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
 
