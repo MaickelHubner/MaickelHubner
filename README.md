@@ -1,19 +1,19 @@
 ### Hi 👋, I'm Maickel Hubner
-Make dreams come true with Data Science
+Data & Software Engineer
 
-<br/>
+<br/><br/>
 
-💵 I’m currently working on [**Loggi**](https://github.com/loggi)
+👨‍💻 I’m currently working on [Parts Cloud](https://github.com/PartsCloud)
 
 📝 I regulary write articles on my [Medium](https://medium.com/@maickelhubner) or [LinkedIn](https://www.linkedin.com/in/maickelhubner/detail/recent-activity/posts/) pages
 
-🏅 Ask me about **Finances, Python, Django, Angular or Data Science**
+💬 Ask me about **Finances, Python, Django, Angular, or Data Science**
 
-💬 Mail me **maickel.hubner@gmail.com**
+📧 Mail me **maickel.hubner@gmail.com**
 
 💼 Know about my [job experiences](https://www.linkedin.com/in/maickelhubner/)
 
-🎨 I like to run, read and watch series and movies in my free time. I play guitar and piano and sometimes risk to sing too
+🎨 I like to go running, read, and watch series and movies in my free time. I play guitar and piano and sometimes risk singing too
 
 <br/><br/>
 
@@ -30,53 +30,54 @@ Make dreams come true with Data Science
 
 ### Technology Stack:
 
-[<img align="left" alt="python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />](https://www.python.org)
-[<img align="left" alt="django" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />](https://www.djangoproject.com/)
-[<img align="left" alt="flask" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />](https://flask.palletsprojects.com/)
+<img align="left" alt="Google Cloud" width="40" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" />
+<img align="left" alt="AWS" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
+<img align="left" alt="Digital Ocean" width="40" src="https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg" />
 
 <br/><br/>
 
-[<img align="left" alt="docker" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />](https://www.docker.com/)
-[<img align="left" alt="kubernetes" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" />](https://kubernetes.io)
-[<img align="left" alt="kafka" width="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />](https://kafka.apache.org/)
-[<img align="left" alt="rabbitmq" width="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />](https://www.rabbitmq.com)
+<img align="left" alt="Python" width="40" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
+<img align="left" alt="TypeScript" width="40" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" />
+<img align="left" alt="Progress 4GL" width="40" src="https://avatars.githubusercontent.com/u/6099585?s=280&v=4" />
 
 <br/><br/>
 
-[<img align="left" alt="GCP" width="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />](https://cloud.google.com)
-[<img align="left" alt="AWS" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com)
+<img align="left" alt="Django" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" />
+<img align="left" alt="DRF" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" />
+<img align="left" alt="FastAPI" width="40" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" />
+<img align="left" alt="Flask" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
+<img align="left" alt="Ninja" width="40" src="https://django-ninja.dev/img/logo-big.png" />
 
 <br/><br/>
 
-[<img align="left" alt="postgresql" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />](https://www.postgresql.org)
-[<img align="left" alt="mysql" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />](https://www.mysql.com/)
-[<img align="left" alt="oracle" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" />](https://www.oracle.com/)
-[<img align="left" alt="sqlite" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />](https://www.sqlite.org/)
-[<img align="left" alt="elasticsearch" width="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" />](https://www.elastic.co)
-[<img align="left" alt="mongodb" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />](https://www.mongodb.com/)
+<img align="left" alt="PostgresSQL" width="40" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
+<img align="left" alt="Elastic Search" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" />
+<img align="left" alt="SQLite" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" />
+<img align="left" alt="Oracle" width="40" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" />
+<img align="left" alt="MySQL" width="40" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
 
 <br/><br/>
 
-[<img align="left" alt="kibana" width="40" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" />](https://www.elastic.co/kibana)
+<img align="left" alt="Angular" width="40" src="https://icon.icepanel.io/Technology/svg/Angular.svg" />
+<img align="left" alt="Redux" width="40" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
+<img align="left" alt="Vue" width="40" src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" />
 
 <br/><br/>
 
-[<img align="left" alt="tensorflow" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />](https://www.tensorflow.org)
-[<img align="left" alt="scikit-learn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/)
+<img align="left" alt="IONIC" width="40" src="https://icon.icepanel.io/Technology/svg/Ionic.svg" />
 
 <br/><br/>
 
-[<img align="left" alt="angular" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />](https://angular.io)
-[<img align="left" alt="ionic" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" />](https://ionicframework.com)
-[<img align="left" alt="ngrx" width="40" src="https://ngrx.io/assets/images/badge.svg" />](https://ngrx.io/)
-[<img align="left" alt="typescript" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" />](https://www.typescriptlang.org/)
+<img align="left" alt="Jupyter" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Jupyter.png" />
+<img align="left" alt="Scikit Learn" width="40" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" />
+<img align="left" alt="Tensor Flow" width="40" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" />
 
-<br/><br/><br/>
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maickelhubner&show_icons=true&locale=en&layout=compact" alt="maickelhubner" /><br/><br/><br/><br/><br/><br/><br/><br/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maickelhubner&show_icons=true&locale=en" alt="maickelhubner" /><br/><br/></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maickelhubner" alt="maickelhubner" /></a></p>
-
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<img align="left" alt="Docker" width="40" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
+<img align="left" alt="Git" width="40" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
+<img align="left" alt="GitHub" width="40" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
+<img align="left" alt="RabbitMQ" width="40" src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" />
+<img align="left" alt="GitHub Actions" width="40" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" />
+<img align="left" alt="JIRA" width="40" src="https://icon.icepanel.io/Technology/svg/Jira.svg" />
+<img align="left" alt="Ruff & UV" width="40" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.22.0/1742565386909/Microsoft.VisualStudio.Services.Icons.Default" />
